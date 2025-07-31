@@ -1,3 +1,5 @@
+## The Research are in process...
+
 Research Proposal: Automated Pill Counting and Foreign Object Detection Using Image Processing and Machine Learning
 
 1. Introduction and Background
