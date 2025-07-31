@@ -1,6 +1,7 @@
 ## The Research are in process...
 
 Research Proposal: Automated Pill Counting and Foreign Object Detection Using Image Processing and Machine Learning
+Advisor: Dr. Warattapop Thapatsuwan, Ph.D., Department of Computer Science, Kasetsart University
 
 1. Introduction and Background
 
